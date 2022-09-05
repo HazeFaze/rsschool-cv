@@ -1,6 +1,8 @@
 ![Avatar](https://media-exp1.licdn.com/dms/image/C4E03AQFSvQkm81ZmAA/profile-displayphoto-shrink_800_800/0/1652107240369?e=1668038400&v=beta&t=XVgRocdBJquvwTdu_b05jXTyp-FZ-1hWd7HUM7KCJRA "My Photo")
-# Vladislav Kim
-#### Middle QA Engineer/Trainee Front-end Developer
+# **Vladislav Kim**
+### *Middle QA Engineer/Trainee Front-end Developer*
+#### Telegram: @hazefaze
+#### LinkedIn: [Vladislav Kim](https://www.linkedin.com/in/vladislav-kim-0142761a6/)
 ***
 
 ## About me:
@@ -47,9 +49,9 @@ I have deep knowlege in Quality Assurance field. Also I have expirience with: Py
 ***
 ## Code Example:
 
-### Task from [Codewars](https://www.codewars.com/kata/52c31f8e6605bcc646000082) (6 kyu)
+### Pet-project: [Free Proxy Validator](https://github.com/HazeFaze/free_proxy_validator)
 
-### My solution:
+### Solution for [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) (6 kyu):
 
 ```
 def two_sum(numbers, target):
@@ -81,14 +83,14 @@ def two_sum(numbers, target):
 ## Achivments:
 ### The First Online Institute of Software Testing
 ##### June 2021
-#### Best score from 50+ students
+#### *Best score from 50+ students*
 
 ### Kaluga State University
 ##### 2014 - 2019
 #### Bachelor's degree at Hospitality Administration/Managment
-#### Second by score from 20 students
+#### *Second by score from 20 students*
 ***
 ## English Level:
 ### B1-B2
-###### hope so....
+###### *hope so....*
 ***
