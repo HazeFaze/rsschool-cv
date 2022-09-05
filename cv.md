@@ -1,13 +1,16 @@
 ![Avatar](https://media-exp1.licdn.com/dms/image/C4E03AQFSvQkm81ZmAA/profile-displayphoto-shrink_800_800/0/1652107240369?e=1668038400&v=beta&t=XVgRocdBJquvwTdu_b05jXTyp-FZ-1hWd7HUM7KCJRA "My Photo")
-# **Vladislav Kim**
-### *Middle QA Engineer/Trainee Front-end Developer*
+## **Vladislav Kim**
+### *Middle QA Engineer/TraineeFront-end Developer*
+***
+## Contact Information:
+#### Discord: @HazeFaze
 #### Telegram: @hazefaze
 #### LinkedIn: [Vladislav Kim](https://www.linkedin.com/in/vladislav-kim-0142761a6/)
 ***
 
 ## About me:
 
-Hi everyone! :wave:  
+Hi everyone!   
 I'm a Middle QA Engineer.
 Currently I'm studying Front-end development at [RS School](https://rs.school/).
 I can describe myself as an energetic, self-motivated, fell in love with Software Development and Testing person.
@@ -90,7 +93,7 @@ def two_sum(numbers, target):
 #### Bachelor's degree at Hospitality Administration/Managment
 #### *Second by score from 20 students*
 ***
-## English Level:
-### B1-B2
-###### *hope so....*
+## Languages:
+### English: Intermediate (B1)
+### Russian: Native
 ***
