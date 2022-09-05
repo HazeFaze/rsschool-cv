@@ -6,9 +6,9 @@
 ## About me:
 
 Hi everyone! :wave:  
-I'm Middle QA Engineer.
-Currently I'm studying a Front-end development at [RS School](https://rs.school/).
-I can describe myself as an energetic, self-motivated, full in love at Software Development and Testing person.
+I'm a Middle QA Engineer.
+Currently I'm studying Front-end development at [RS School](https://rs.school/).
+I can describe myself as an energetic, self-motivated, fell in love with Software Development and Testing person.
 
 * My personal qualities:
     + Sefl-education
@@ -17,7 +17,7 @@ I can describe myself as an energetic, self-motivated, full in love at Software 
     + Flexibility
     + Team work skills
 
-I have deep knowlege in Quality Assurance field. I have expirience with: Python, JavaScript, Selenium, Cypress, Postman, MockServer and other typical instruments for testing such as TestRail, RedMine and etc.
+I have deep knowlege in Quality Assurance field. Also I have expirience with: Python, JavaScript, Selenium, Cypress, Postman, MockServer and other typical instruments of testing such as TestRail, RedMine and etc.
 ***
 ## Primary Skills:
 
@@ -79,7 +79,7 @@ def two_sum(numbers, target):
 ***
 
 ## Achivments:
-### The first online institute of software testing
+### The First Online Institute of Software Testing
 ##### June 2021
 #### Best score from 50+ students
 
