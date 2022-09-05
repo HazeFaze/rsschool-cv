@@ -1,11 +1,14 @@
 ![Avatar](https://media-exp1.licdn.com/dms/image/C4E03AQFSvQkm81ZmAA/profile-displayphoto-shrink_800_800/0/1652107240369?e=1668038400&v=beta&t=XVgRocdBJquvwTdu_b05jXTyp-FZ-1hWd7HUM7KCJRA "My Photo")
 ## **Vladislav Kim**
 ### *Middle QA Engineer/TraineeFront-end Developer*
+
 ***
+
 ## Contact Information:
 #### Discord: @HazeFaze
 #### Telegram: @hazefaze
 #### LinkedIn: [Vladislav Kim](https://www.linkedin.com/in/vladislav-kim-0142761a6/)
+
 ***
 
 ## About me:
@@ -23,7 +26,9 @@ I can describe myself as an energetic, self-motivated, fell in love with Softwar
     + Team work skills
 
 I have deep knowlege in Quality Assurance field. Also I have expirience with: Python, JavaScript, Selenium, Cypress, Postman, MockServer and other typical instruments of testing such as TestRail, RedMine and etc.
+
 ***
+
 ## Primary Skills:
 
 * ### Programming Laguages:
@@ -49,7 +54,9 @@ I have deep knowlege in Quality Assurance field. Also I have expirience with: Py
     + Docker
     + Jenkins
     + Figma
+
 ***
+
 ## Code Example:
 
 ### Pet-project: [Free Proxy Validator](https://github.com/HazeFaze/free_proxy_validator)
@@ -70,6 +77,7 @@ def two_sum(numbers, target):
                     return res
     return []
 ```
+
 ***
 
 ## Work Expirience:
@@ -81,6 +89,7 @@ def two_sum(numbers, target):
 
 ### System Administrator at KoreaTour CO LTD
 ##### Feb. 2020 - June 2021 (1 y. 5 m.)
+
 ***
 
 ## Achivments:
@@ -92,8 +101,11 @@ def two_sum(numbers, target):
 ##### 2014 - 2019
 #### Bachelor's degree at Hospitality Administration/Managment
 #### *Second by score from 20 students*
+
 ***
+
 ## Languages:
 ### English: Intermediate (B1)
 ### Russian: Native
+
 ***
